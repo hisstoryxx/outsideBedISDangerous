@@ -60,5 +60,6 @@
 .topSearchIcon{
     font-size: 18px;
     color: #444;
-    cursor: s;
+    cursor: pointer;
+    margin-left: 15;
 }
